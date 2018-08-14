@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-container {
+    width: 1200px;
+    background-color: #374765;
+    padding: 15px 10px;
+    margin: 0 auto;
+}
+
+.container {
+    margin: 0 auto;
+}
